@@ -13,7 +13,7 @@ This is a simple device to step-down the 12V used by the Homelink mirror in my S
 ## Installed
 
 
-![i1](https://raw.githubusercontent.com/jotux/SubaruHomelinkUsbAdapter/master/pics/wiring.png "i1")
+![i1](https://raw.githubusercontent.com/jotux/SubaruHomelinkUsbAdapter/master/pics/wiring.jpg "i1")
 
-![i2](https://raw.githubusercontent.com/jotux/SubaruHomelinkUsbAdapter/master/pics/installed.png "i2")
+![i2](https://raw.githubusercontent.com/jotux/SubaruHomelinkUsbAdapter/master/pics/installed.jpg "i2")
 
